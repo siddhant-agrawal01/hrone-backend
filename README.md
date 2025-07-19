@@ -1,6 +1,5 @@
 # Ecommerce FastAPI Backend
 
-A professional FastAPI-based ecommerce backend with MongoDB integration, built like a senior developer would structure it.
 
 ## Features
 
@@ -9,7 +8,6 @@ A professional FastAPI-based ecommerce backend with MongoDB integration, built l
 - **Advanced Filtering**: Search products by name and filter by size
 - **Pagination**: Efficient pagination for all list endpoints
 - **Data Validation**: Comprehensive Pydantic schema validation
-- **Error Handling**: Professional error handling and logging
 - **MongoDB Integration**: Async MongoDB operations with Motor
 
 ## API Endpoints
